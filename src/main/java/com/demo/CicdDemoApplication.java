@@ -11,6 +11,7 @@ public class CicdDemoApplication {
 		
 		
 		SpringApplication.run(CicdDemoApplication.class, args);
+		sysout
 		
 	}
 
